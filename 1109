@@ -1,0 +1,3 @@
+git init
+git add index.html
+git commit -m "Initial commit: Add Calorie Tracker app"
